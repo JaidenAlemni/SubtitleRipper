@@ -1,0 +1,11 @@
+{
+  "Series": {
+    "SeriesCode": {
+      "Language": {
+        "LanguageCode": {
+          "123456":"Title"
+        }
+      }
+    }
+  }
+}
